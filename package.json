@@ -28,7 +28,7 @@
     "url": "https://github.com/ZencashOfficial/bitcore-message-zen.git"
   },
   "dependencies": {
-    "bitcore-lib-zen": "github:psyraxaus/bitcore-lib-zen#psyraxaus/elliptic_update"
+    "bitcore-lib-zen": "github:psyraxaus/bitcore-lib-zen"
   },
   "devDependencies": {
     "bitcore-build-zen": "ZencashOfficial/bitcore-build-zen",
